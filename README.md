@@ -14,5 +14,6 @@ Uses the Stage game library for CircuitPython (https://learn.adafruit.com/circui
 * Press B to see a sample dialog
 * Press A to see the character attack
 
-![Screenshot](https://github.com/codysandahl/pygamer-simple-rpg/screenshots/main_screen.jpg)
+## Screenshots
+![Screenshot](/screenshots/main_screen.jpg)
 
